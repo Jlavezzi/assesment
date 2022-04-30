@@ -1,0 +1,113 @@
+/*title*/
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+h1{
+  font-family: "montserrat-black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+body{
+  font-family: "montserrat";
+}
+h3{
+  font-family: "montserrat-black"
+}
+p{
+  color: #8f8f8f;
+}
+
+
+.navbar{ padding-top: 0;
+  margin-bottom: 4.5rem;
+}
+.navbar-brand{
+  padding-top: 0;
+  font-family: ubuntu;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "montserrat-light";
+}
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+.title-img{
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+#features{
+  padding: 7% 15%;
+}
+.feature-Box{
+  text-align: center;
+  padding: 5%;
+}
+#testimonials{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.dogsss{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+}
+.lady{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+
+}
+#press{
+  background-color: #ff4c68;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+
+}
+
+.prepricing{
+  text-align: center;
+  padding-top: 30px;
+}
+.row{
+  text-align: center;
+}
+.col{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 10px 30px 30px 30px;
+}
+.lower-dwnd{
+  padding-top: 20px;
+}
+.whatsapp{
+  height: 30px; width: 30px;
+}
+#Footer{
+  margin: 0;
+}
+.footer-elements{
+  text-align: center;
+  padding-bottom: 10px;
+}
+.copyright{
+  text-align: center;
+}
