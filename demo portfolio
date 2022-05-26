@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale =1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+
+  <link rel="stylesheet" href="C:\Users\ADMIN\Desktop\atom\demo\demo.css">
+  <link rel="stylesheet"  media="screen and (max-width:1170px)" href="C:\Users\ADMIN\Desktop\atom\demo\phone.css">
+  <link rel="icon" href="C:\Users\ADMIN\Desktop\atom\images\favicon.ico">
+  <title>  Jlavezzi</title>
+  </head>
+  <body>
+    <header class="first-header">
+      <img  class=""src="C:\Users\ADMIN\Desktop\atom\images\favicon.ico" alt="">
+      <h1>my personal page</h1>
+
+       <div class="search-bar-div">
+
+       </div>
+    </header>
+    <section class="introduction">
+      <div class="sub-introduction">
+        <h1> Hy, i am Adejare Adebayo</h1>
+        <p> i am a cryptocurrency enthusiats and <br> also a forex trader with future insights into very attractive ui/ux designs.
+         <br>i am a savy of web 3 and would later venture into crypto trading</p>
+      </div>
+      <div class="hobbyy">
+        <h3>my Hobbies</h3>
+        <ul class="hobbies">
+          <li  class="hobby music"> <span id="m">M</span>u<span id="s">s</span><span id="ic">ic</span></li>
+          <li class="hobby documentaries">documentaries</li>
+          <li  class=" hobby movies">movies <ol class="sub-hobby">
+            <li class="subhoby scifi">Scifi movies</li>
+            <li class="subhoby highschool">High school movies</li>
+            <li class="subhoby historical">historical movies</li>
+            <li class="subhoby ideas">I am opened to ideas <span>....</span> </li>
+          </ol></li>
+          <li class="hobby Travelling"> Travelling</li>
+        </ul>
+      </div>
+
+    </section>
+
+    <section class="skills-set">
+      <header>
+        <h2>skills</h2>
+      </header>
+      <div class="skilldiv">
+        <ol class="skills">
+         <li class="skill">responsive website using Bootstrap</li>
+         <li class="skill"> responsive websites using just HTML and CSS</li>
+         <li class="skill"> Interactive and userfriendly websites</li>
+         <li class="skill">Psychology of color and fonts</li>
+        </ol>
+      </div>
+
+
+    </section>
+    <section  class="projects">
+    <div id="projects">
+        <img src="C:\Users\ADMIN\Desktop\atom\demo\img0.jpg" alt="">
+      
+        <img src="C:\Users\ADMIN\Desktop\atom\demo\img1.jpg" alt="">
+        <img src="C:\Users\ADMIN\Desktop\atom\demo\aurora-1185464__340.jpg" alt="">
+</div>
+
+    </section>
+
+    <footer>
+      <div class="contact">
+        <img src="C:\Users\ADMIN\Desktop\atom\images\icons8-linkedin-24.png" alt="" class="" href = ''>
+        <img src="C:\Users\ADMIN\Desktop\atom\images\icons8-twitter-30.png" alt="" class="" href= ''>
+        <img src="" alt="" class="" href=''>
+      </div>
+    <p class="legal">Copyright (c) 2022 Copyright Holder All Rights Reserved. Jlavezzi</p>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="C:\Users\ADMIN\Desktop\atom\demo\demo.js" charset="utf-8"></script>
+  </body>
+</html>
